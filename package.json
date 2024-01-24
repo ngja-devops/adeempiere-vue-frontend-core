@@ -37,7 +37,7 @@
     "@fullcalendar/core": "^6.1.9",
     "@fullcalendar/daygrid": "^6.1.9",
     "@fullcalendar/interaction": "^6.1.9",
-    "@fullcalendar/list": "^6.1.9",
+    "@fullcalendar/list": "^6.1.10",
     "@fullcalendar/timegrid": "^6.1.9",
     "@fullcalendar/vue": "^6.1.9",
     "@kangc/v-md-editor": "^1.7.11",
